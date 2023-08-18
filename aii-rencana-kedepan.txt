@@ -3,3 +3,4 @@ RENCANA KEDEPAN AII
 - Mempunyai perusahaan di luar negeri
 * menambah pegawai indonesia
 * menambah perusahaan
+* menambah kolaborasi
